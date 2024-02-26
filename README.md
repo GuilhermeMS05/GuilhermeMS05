@@ -2,7 +2,7 @@ Hello, my name is Guilherme, I'm 18 years old, and I live in Portugal. Currently
 
 I have professional training in computer science from Colégio de São Miguel, with comprehensive knowledge in various areas of this discipline, focusing my specialization on web development.
 
-### The technologies I have mastered include:
+#### The technologies I have mastered include:
 - Frontend:
     - HTML/CSS
     - Bootstrap
@@ -10,7 +10,7 @@ I have professional training in computer science from Colégio de São Miguel, w
 - Backend:
     - PHP
     - MySql
-### The technologies I am currently studying encompass:
+#### The technologies I am currently studying encompass:
 - Frontend:
     - JQuery
     - React
@@ -18,13 +18,3 @@ I have professional training in computer science from Colégio de São Miguel, w
     - TaildwindCSS
 - Backend:
     - Laravel
-
-
-## Technologies Used
-
-- HTML and CSS
-    - Bootstrap 
-- JavaScript
-    - ChartJs 
-- MySql
-- PHP
