@@ -18,3 +18,13 @@ I have professional training in computer science from Colégio de São Miguel, w
   - TaildwindCSS
  - Backend:
   - Laravel
+
+
+## Technologies Used
+
+- HTML and CSS
+    - Bootstrap 
+- JavaScript
+    - ChartJs 
+- MySql
+- PHP
